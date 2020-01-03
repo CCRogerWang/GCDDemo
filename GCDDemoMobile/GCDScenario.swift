@@ -8,8 +8,8 @@
 
 import Foundation
 
-class GCDScenario {
-    func run() {
+public class GCDScenario {
+    public func run() {
         print("run scenario... ")
         s5()
     }
